@@ -10,3 +10,11 @@ Use this command to setup the server, you need diferent type of variables like p
 ## Server stop
 
 Use `ctl+c` to stop the server
+
+## Heroku
+
+Login: https://nuwe-rest-server.herokuapp.com/api/auth/login (email: cesarin@gmail.com, password: 1234) if you want test it
+
+User intial: https://nuwe-rest-server.herokuapp.com/api/user/
+
+Repo initial: https://nuwe-rest-server.herokuapp.com/api/repo/
